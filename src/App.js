@@ -39,8 +39,10 @@ function App() {
     }
   };
 
+  // eslint-disable-next-line
   useEffect(() => {
     dictionaryApi();
+    // eslint-disable-next-line
   }, [word, category]);
 
   return (

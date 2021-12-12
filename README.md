@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Dictionary App
+
+Check out the website live. [Here](https://github.com/facebook/create-react-app).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

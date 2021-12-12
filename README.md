@@ -1,6 +1,6 @@
 # React Dictionary App
 
-Check out the website live. [Here](https://github.com/facebook/create-react-app).
+Check out the website [live](https://dictionary-wizard.netlify.app).
 
 ## Getting Started with Create React App
 
